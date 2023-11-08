@@ -1,1 +1,63 @@
-
+{
+  "products": [
+    {
+      "title": "Elegant Red Dress",
+      "description": "A stunning red dress that will make you look elegant and stylish for any occasion.",
+      "category": "Fashion Men",
+      "price": "99.99",
+      "thumbnail": "https://loremflickr.com/640/480/red_dress",
+      "stock": 15,
+      "discountPercentage": 15,
+      "varian": [
+        {
+          "size": "S",
+          "price": "99.99",
+          "color": "Red",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "price": "99.99",
+          "color": "Red",
+          "stock": 12
+        },
+        {
+          "size": "L",
+          "price": "99.99",
+          "color": "Red",
+          "stock": 8
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "title": "Bohemian Floral Blouse",
+      "description": "A stylish and comfortable blouse with a bohemian floral design.",
+      "category": "Fashion Men",
+      "price": "79.99",
+      "thumbnail": "https://loremflickr.com/640/480/floral_blouse",
+      "stock": 18,
+      "discountPercentage": 15,
+      "varian": [
+        {
+          "size": "S",
+          "price": "79.99",
+          "color": "Blue",
+          "stock": 12
+        },
+        {
+          "size": "M",
+          "price": "79.99",
+          "color": "Blue",
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "price": "79.99",
+          "color": "Red",
+          "stock": 8
+        }
+      ]
+    }
+  ]
+}
