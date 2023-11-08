@@ -57,7 +57,130 @@
           "color": "Red",
           "stock": 8
         }
-      ]
+      ],
+      "id": "2"
+    },
+    {
+      "title": "Casual Jeans",
+      "description": "Comfortable and stylish jeans for everyday wear. A must-have in your wardrobe.",
+      "category": "Fashion Men",
+      "price": "649.00",
+      "thumbnail": "https://loremflickr.com/640/480/jeans",
+      "stock": 8,
+      "discountPercentage": 15,
+      "varian": [
+        {
+          "size": "30",
+          "price": "649.00",
+          "color": "Black",
+          "stock": 8
+        },
+        {
+          "size": "32",
+          "price": "649.00",
+          "color": "Blue",
+          "stock": 12
+        },
+        {
+          "size": "34",
+          "price": "649.00",
+          "color": "Black",
+          "stock": 15
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "title": "Elegant Evening Gown",
+      "description": "An elegant evening gown for special occasions. Make a grand entrance with this stunning dress.",
+      "category": "Fashion Women",
+      "price": "129.99",
+      "thumbnail": "https://loremflickr.com/640/480/evening_gown",
+      "stock": 12,
+      "discountPercentage": 15,
+      "varian": [
+        {
+          "size": "S",
+          "price": "129.99",
+          "color": "Red",
+          "stock": 8
+        },
+        {
+          "size": "M",
+          "price": "129.99",
+          "color": "Black",
+          "stock": 10
+        }
+      ],
+      "id": "4"
+    },
+    {
+      "title": "Casual T-Shirt",
+      "description": "A comfortable and stylish casual t-shirt for everyday wear.",
+      "category": "Fashion Women",
+      "price": "39.99",
+      "thumbnail": "https://loremflickr.com/640/480/tshirt",
+      "stock": 20,
+      "discountPercentage": 15,
+      "varian": [
+        {
+          "size": "S",
+          "price": "39.99",
+          "color": "White",
+          "stock": 15
+        },
+        {
+          "size": "M",
+          "price": "39.99",
+          "color": "Gray",
+          "stock": 18
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "title": "Summer Breeze Perfume",
+      "description": "A refreshing and delightful scent that captures the essence of summer.",
+      "category": "Perfume",
+      "price": "49.99",
+      "thumbnail": "https://loremflickr.com/640/480/summer_perfume",
+      "stock": 30,
+      "discountPercentage": 15,
+      "varian": [
+        {
+          "scent": "Citrus",
+          "price": "49.99",
+          "stock": 30
+        }
+      ],
+      "id": "6"
+    },
+    {
+      "title": "Floral Fantasy Perfume",
+      "description": "A floral and enchanting fragrance that evokes the beauty of blooming flowers.",
+      "category": "Perfume",
+      "price": "59.99",
+      "thumbnail": "https://loremflickr.com/640/480/floral_perfume",
+      "stock": 25,
+      "varian": [
+        {
+          "scent": "Rose",
+          "price": "59.99",
+          "stock": 25
+        }
+      ],
+      "id": "7"
+    },
+    {
+      "title": "Bacon",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "category": "Recycled",
+      "price": "258.00",
+      "thumbnail": "https://loremflickr.com/640/480/fashion",
+      "varian": [],
+      "discountPercentage": 64,
+      "stock": 85,
+      "id": "8"
     }
   ]
-}
+}  
